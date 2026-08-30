@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://camera-experiences-adjust-admit.trycloudflare.com/vnc.html
+URL       : https://basically-fighting-they-bus.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 20:05:54
+Created   : 2026-08-30 00:06:22
 =======================================================
